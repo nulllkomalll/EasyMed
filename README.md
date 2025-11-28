@@ -79,7 +79,7 @@ node index.js
 
 **License**
 
-- This repository does not include an explicit license file. Add a `LICENSE` file if you want to declare licensing terms.
+- This repository does not include an explicit license file.
 
 **Contact**
 
@@ -87,8 +87,4 @@ node index.js
 
 ---
 
-If you'd like, I can also:
 
-- add a `start` script to `easyMed/easymed-backend/package.json`,
-- create a simple `README` inside `easyMed/easymed-backend` and `easyMed/server` with service-specific instructions, or
-- wire up a small script to import the SQL schema automatically.
